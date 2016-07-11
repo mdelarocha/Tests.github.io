@@ -1,4 +1,4 @@
-# hello-world
+# coursera-test
 First project
 
 Hello Humanoids! 
