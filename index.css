@@ -1,18 +1,18 @@
 .input[type=text]{
-	width: 130px;
+	width: 500px;
 	-webkit-transition: width 0.4s ease-in-out;
 	transition: width 0.4s ease-in-out;
 }
 
 input[type=text]:focus{
-	width: 10%;
+	width: 30%;
 }
 
 p {
 	color: red
 }
 
-hi1 {
+h1 {
 	color: green;
 }
 
