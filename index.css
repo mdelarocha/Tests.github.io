@@ -1,10 +1,10 @@
 .input[type=text]{
-	text-align: center;
 	-webkit-transition: width 0.4s ease-in-out;
 	transition: width 0.4s ease-in-out;
 }
 
 input[type=text]:focus{
+	text-align: center;
 	width: 10%;
 }
 
