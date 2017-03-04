@@ -1,6 +1,5 @@
 .input[type=text]{
-	width: 260px;
-	text-align:center;
+	text-align: center;
 	-webkit-transition: width 0.4s ease-in-out;
 	transition: width 0.4s ease-in-out;
 }
