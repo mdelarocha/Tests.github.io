@@ -11,3 +11,7 @@ input[type=text]:focus{
 p {
 	color: red
 }
+
+body {
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d9/80/18/d980182146beb891abe074b5ebbc4ae2.png");
+}
