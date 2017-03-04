@@ -1,12 +1,12 @@
 .input[type=text]{
-	align="center";
 	width: 260px;
 	-webkit-transition: width 0.4s ease-in-out;
 	transition: width 0.4s ease-in-out;
 }
 
 input[type=text]:focus{
-	width: 0%;
+	align="center";
+	width: 10%;
 }
 
 p {
