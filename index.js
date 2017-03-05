@@ -24,6 +24,9 @@ var emptyFunction = require('./emptyFunction');
 	
 //import the twitter js client
 module.exports = require('./lib/Twitter');
+	twttr.widgets.load(
+  document.getElementById("index.html")
+);
 
 // Initializing the twitter API
 var express = require('express');
