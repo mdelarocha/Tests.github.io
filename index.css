@@ -1,3 +1,9 @@
+.button {
+	width: 100px;
+	height: 50px;
+	margin: 200px 50px 150px 1100px;
+}
+
 .input[type=text]{
 	width: 500px;
 	-webkit-transition: width 0.4s ease-in-out;
