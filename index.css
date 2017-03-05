@@ -1,36 +1,21 @@
-.undecissive-button 
-{
-    width: 100px;
-    height: 50px;
-    margin: 200px 50px 150px 1100px;
+.input[type=text]{
+	width: 500px;
+	-webkit-transition: width 0.4s ease-in-out;
+	transition: width 0.4s ease-in-out;
 }
 
-.fixbar 
-{
-    width: 60%;
-    height:30px;
-    position: fixed;
-    left: 100px;
-    top: 300px;
-    right:0;
-    height: 30px;
-    background: burlywood;
-    z-index: 1;
+input[type=text]:focus{
+	width: 30%;
 }
 
-.search 
-{
-    position: absolute;
-    right:20px;
-    top: 0px;
-    width: 30px;
-    height: 22px;
-    z-index: 2;
-    background:blue;
-
+p {
+	color: red
 }
 
-/*body
-{
-    background-image: url("https://www.google.com/search?q=minimalist+background&tbm=isch&imgil=W9SxjXZqqRc0JM%253A%253BmaqNAa0Vx49_MM%253Bhttp%25253A%25252F%25252Fwww.hdbloggers.net%25252Fcreative-minimalist-wallpaper-background%25252F&source=iu&pf=m&fir=W9SxjXZqqRc0JM%253A%252CmaqNAa0Vx49_MM%252C_&usg=__dZhk7Zhl6iNWc5GBKWe4TBKNY4M%3D&biw=807&bih=738&ved=0ahUKEwjp0Mmtgb7SAhXjsFQKHWsCCFEQyjcINQ&ei=tE67WOmmIePh0gLrhKCIBQ#imgrc=W9SxjXZqqRc0JM:.png");
-}*/
+h1 {
+	color: green;
+}
+
+body {
+	background-image: url("https://d13yacurqjgara.cloudfront.net/users/30068/screenshots/1485005/tiny-elephant-logo.png");
+}
