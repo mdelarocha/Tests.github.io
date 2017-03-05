@@ -23,7 +23,7 @@ var config = {
     "consumerKey": "LZ3zo5DdGqaUYAh4mgHSXipwy",
     "consumerSecret": "	Ry7qwUBEeJ08CQv5IfDWGUMT31EgR1YgGFTgKeluhaDwFrP2sJ",
     "accessToken": "356514451-7EgYCJhVDkSfDoZ9L5wkrloNH19mQcUOhnyi5No4",
-    "accessTokenSecret": "	pP97y5CBEbjFLvgbwUPqNFzfRsCcan93knFIG5jnDi8ta",
+    "accessTokenSecret": "pP97y5CBEbjFLvgbwUPqNFzfRsCcan93knFIG5jnDi8ta",
     "callBackUrl": "https:://google.com"
 }
 
