@@ -1,22 +1,31 @@
-.input[type=text]{
-	width: 500px;
-	-webkit-transition: width 0.4s ease-in-out;
-	transition: width 0.4s ease-in-out;
+.undecissive-button 
+{
+    width: 100px;
+    height: 50px;
+    margin: 200px 50px 150px 1100px;
 }
 
-input[type=text]:focus{
-	width: 50%;
-	text-align: center;
+.fixbar 
+{
+    width: 60%;
+    height:30px;
+    position: fixed;
+    left: 100px;
+    top: 300px;
+    right:0;
+    height: 30px;
+    background: burlywood;
+    z-index: 1;
 }
 
-p {
-	color: red
-}
+.search 
+{
+    position: absolute;
+    right:20px;
+    top: 0px;
+    width: 30px;
+    height: 22px;
+    z-index: 2;
+    background:blue;
 
-h1 {
-	color: green;
-}
-
-body {
-	background-image: url("https://d13yacurqjgara.cloudfront.net/users/30068/screenshots/1485005/tiny-elephant-logo.png");
 }
